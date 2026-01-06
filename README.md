@@ -4,7 +4,7 @@ Hospital Appointment Analytics Dashboard
 
 Healthcare Data Analytics | SQL · Power BI
 
-📌 Project Overview
+#📌 Project Overview
 
 This project presents a healthcare analytics dashboard built to support executive, clinical, and financial decision-making in a hospital setting.
 
@@ -12,7 +12,7 @@ The dashboard combines patient risk indicators, clinical outcomes, hospital util
 
 The analysis focuses on transparency, clinical relevance, and financial clarity, rather than cosmetic metrics.
 
-🎯 Objectives
+#🎯 Objectives
 
 The dashboard was designed to answer the following questions:
 
@@ -28,7 +28,7 @@ How do admission types (Elective, Urgent, Emergency) affect patient volume and r
 
 How are clinical test results distributed across conditions?
 
-📊 Dashboard Structure
+#📊 Dashboard Structure
 📌 Page 1: Executive Overview & Clinical Insights
 
 This page provides a high-level hospital performance view combined with core clinical indicators.
@@ -61,7 +61,7 @@ Key Insight:
 
 Emergency and chronic cases contribute significantly to higher patient risk and longer hospital stays.
 
-📌 Page 2: Financial Insights
+#📌 Page 2: Financial Insights
 
 This page focuses on billing performance and cost behavior across hospital operations.
 
@@ -91,7 +91,7 @@ Elevated billing amounts relative to overall averages
 
 This approach supports both clinical prioritization and operational planning.
 
-🛠️ Tools & Technologies
+#🛠️ Tools & Technologies
 
 SQL (MS SQL Server) – Data preparation and length-of-stay calculation
 
@@ -111,7 +111,7 @@ Clear separation between clinical and financial insights
 
 Consistent color theme and iconography for executive readability
 
-✅ Key Takeaways
+#✅ Key Takeaways
 
 Combines clinical outcomes with financial performance
 
@@ -121,7 +121,7 @@ Preserves data realism by retaining long-stay and high-risk cases
 
 Demonstrates practical healthcare analytics, not just visualization
 
-👤 Author
+#👤 Author
 
 Abdulhamid Abdulwalid Danjuma
 Healthcare Data Analyst
